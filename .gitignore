@@ -1,3 +1,5 @@
 **/*envoy_logs
 **/*redisData
 *.pem
+public
+dist
